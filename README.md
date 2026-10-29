@@ -44,3 +44,7 @@ This project demonstrates how data analysis, business intelligence, and AI-assis
 
 ## Author
 Student Project – AI Business Intelligence Assistant
+
+## Live Demo
+
+[Click here to view the AI Business Intelligence Assistant](https://mini-ai-bi-assistant-mfig.onrender.com)
